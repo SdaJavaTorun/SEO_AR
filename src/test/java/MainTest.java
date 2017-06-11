@@ -1,5 +1,4 @@
-package com.sdajava.mongo_weekend;
-
+import com.sdajava.mongo_weekend.Main;
 import org.junit.Test;
 
 import java.util.*;
